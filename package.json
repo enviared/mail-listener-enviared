@@ -16,7 +16,7 @@
     "enviared"
   ],
   "author": "Jose Luis Orozco <handark@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/enviared/mail-listener-enviared/issues"
   },
