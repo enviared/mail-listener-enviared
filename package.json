@@ -1,5 +1,5 @@
 {
-  "name": "mail-listener-enviared",
+  "name": "@handark/mail-listener-enviared",
   "version": "1.0.0",
   "description": "Biblioteca de escucha de correo para node.js",
   "main": "index.js",
