@@ -1,0 +1,29 @@
+{
+  "name": "mail-listener-enviared",
+  "version": "1.0.0",
+  "description": "Biblioteca de escucha de correo para node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enviared/mail-listener-enviared.git"
+  },
+  "keywords": [
+    "mail",
+    "listener",
+    "enviared"
+  ],
+  "author": "Jose Luis Orozco <handark@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enviared/mail-listener-enviared/issues"
+  },
+  "homepage": "https://github.com/enviared/mail-listener-enviared#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "imap": "^0.8.19",
+    "mailparser": "^3.0.0"
+  }
+}
