@@ -44,7 +44,7 @@ JavaScript Code:
 
 ```javascript
 
-var MailListenerEnviared = require("mail-listener-enviared");
+var MailListenerEnviared = require("mail-listener-enviared").MailListenerEnviared;
 
 var mailListenerEnviared = new MailListenerEnviared({
   username: "imap-username",
